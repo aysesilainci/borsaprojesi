@@ -53,7 +53,7 @@ Model adımları:
 
 ### 📌 LSTM Tahmin Sonucu
 
-![LSTM Tahmin](images/lstm.jpg)
+![LSTM Tahmin](images/lstmtahmin.jpg)
 
 Grafikte:
 
@@ -96,7 +96,6 @@ Backtest ile:
 * Strateji performansı
 
 hesaplanmıştır.
-
 
 
 ## 🧪 Proje Akış Şeması
